@@ -15,8 +15,6 @@ Created on Tue Sep 27 16:22:34 2022
 @author: mohamaddalati
 """
 
-# Mohamad Dalati 
-
 # Load library 
 from sklearn.linear_model import LinearRegression
 import pandas as pd 
